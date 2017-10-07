@@ -6,7 +6,7 @@ Simply download the zip file & then extract it to any location to your PC. If po
 
 All sone, there is no any further stage. 
 
-==========================================================================================================================================
+==================================================================
 Step 1:
 
 Provide link into command prompt & press 1 white space.
