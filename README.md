@@ -1,27 +1,32 @@
 # youtubeDownloader
-An youtube Downloader based on cmmmand line &amp; provide full functional features to the user.
+Finally, The Downloader has been updated as video & audio downloader. Coding is fun. 
 
-
-Simply download the zip file & then extract it to any location to your PC. If possible create a short cut of Youtube downloader exe to your desktop. 
-
-All sone, there is no any further stage. 
+Please find the below mention stages, its easy & low memory consumption. 
 
 ================================================================
 
 
 Step 1:
+First we need to decide weather we need the video or, audio for download. Here are 2 options, 
 
-Provide link into command prompt & press 1 white space.
+1 for Video. 
+2 for Audio.
+
+We need to input our choice, in numeric mode. 
 
 step 2:
 
-after process user data, it will provide available video quality into that same screen. Please choose by providing number. 
+Provide link into command prompt & press 1 white space. (This was most time consuming stage during the upgradation.)
+
+after process user data, it will provide available video quality into that same screen. Please choose by providing number. Actually this time our numeric choice will based on apps prefference & available quality. 
+
+The above mention step is only for video download. For Audio Download, there is no any further step like this. 
 
 step 3:
 
-Now please providedownload location. 
+Now please provide download location. 
 
-N.B: After download finishesthe command line will disappear. 
+N.B: After download finishes the command line will disappear. 
 
 That's all. Enjoy:::::::::::
 
